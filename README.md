@@ -25,3 +25,6 @@ This project demonstrates how to extract text from **images (PNG/JPG)** and **PD
 2. Run the script:
    ```bash
    python image_to_text_extraction.py
+
+
+--- OCR RESULT ---

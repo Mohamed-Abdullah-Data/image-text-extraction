@@ -26,5 +26,7 @@ This project demonstrates how to extract text from **images (PNG/JPG)** and **PD
    ```bash
    python image_to_text_extraction.py
 
+![Example Image](https://github.com/Mohamed-Abdullah-Data/image-text-extraction/blob/4b38c9e375894879921df1a3b76d17a4d8d064ce/indented-paragraph.png)
 
---- OCR RESULT ---
+### Example Output
+![OCR Output Example](https://github.com/Mohamed-Abdullah-Data/image-text-extraction/blob/4b38c9e375894879921df1a3b76d17a4d8d064ce/OCR%20RESULT.png)
